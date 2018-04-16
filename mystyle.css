@@ -1,0 +1,19 @@
+.second
+{
+	background: url('img1.jpg') center center no-repeat;
+	align-content: center;
+	height: 100vh;
+	justify-content: center;
+  align-items: center;
+  background-color: #f7f9fa;
+  margin-left: ;
+}
+.second .image{
+	align-content: center;
+}
+
+.first{
+	height: 1vh;
+	width: 55vh;
+	background-color: #eeeeee;
+}
